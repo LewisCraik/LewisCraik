@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋🏻 About Me
+I am a software developer working in the automotive industry. Alongside developing touchscreen interfaces for premium cars, I get involved in project engineering and software testing. Outside of work I have some web-based side projects, which you will find here on GitHub. I am from Coventry in the United Kingdom, where I live with my wife and two sons.
+
+### 🛠 Tools
+My stack is HTML, CSS, Javascript and Bootstrap for the frontend and PHP, MySQL and Laravel for the backend. Wordpress is my CMS of choice and I am also an AWS Certified Practitioner.
+
+### 💬 Contact Me
+My website is: [www.lewiscraik.co.uk](https://www.lewiscraik.co.uk) or you can find me on Twitter: [@LewisCraik](https://twitter.com/LewisCraik).
+
+
 
 <!--
 **LewisCraik/LewisCraik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
