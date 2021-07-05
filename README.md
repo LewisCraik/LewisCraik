@@ -4,9 +4,6 @@ I am a software developer working in the automotive industry. Alongside developi
 ### 🛠 Tools
 My stack is HTML, CSS, Javascript and Bootstrap for the frontend and PHP, MySQL and Laravel for the backend. Wordpress is my CMS of choice and I am also an AWS Certified Practitioner.
 
-### 💬 Contact Me
-My website is: [www.lewiscraik.co.uk](https://www.lewiscraik.co.uk) or you can find me on Twitter: [@LewisCraik](https://twitter.com/LewisCraik).
-
 
 
 <!--
