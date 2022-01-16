@@ -5,10 +5,10 @@ I am a software engineer from Coventry in the UK. Prior to my current role, I wo
 My stack is HTML, CSS, Javascript, React and Bootstrap for the frontend with Node and  MySQL for the backend, Wordpress is my CMS of choice. I am an AWS Certified Practitioner and studying towards my AWS Developer Associate certification.
 
 ### 😄 Pronouns
-He/him
+He/him.
 
 ### ⚡ Fun fact
-I am a qualified hot air balloon pilot
+I am a qualified hot air balloon pilot.
 
 
 
