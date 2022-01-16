@@ -1,8 +1,14 @@
 ### 👋🏻 About Me
-I am a software developer working in the automotive industry. Alongside developing touchscreen interfaces for premium cars, I get involved in project engineering and software testing. Outside of work I have some web-based side projects, which you will find here on GitHub. I am from Coventry in the United Kingdom, where I live with my wife and two sons.
+I am a software engineer from Coventry in the UK. Prior to my current role, I worked in the automotive industry developing touchscreen interfaces for premium cars, in addition to project engineering and software testing. Outside of work I have some web-based side projects, which you will find here on GitHub.
 
 ### 🛠 Tools
-My stack is HTML, CSS, Javascript and Bootstrap for the frontend and PHP, MySQL and Laravel for the backend. Wordpress is my CMS of choice and I am also an AWS Certified Practitioner.
+My stack is HTML, CSS, Javascript, React and Bootstrap for the frontend with Node and  MySQL for the backend, Wordpress is my CMS of choice. I am an AWS Certified Practitioner and studying towards my AWS Developer Associate certification.
+
+### 😄 Pronouns
+He/him
+
+### ⚡ Fun fact
+I am a qualified hot air balloon pilot
 
 
 
